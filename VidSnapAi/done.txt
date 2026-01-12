@@ -1,2 +1,0 @@
-.DS_Store
-e8174e26-ef18-11f0-bbe1-f24c8aa04985
