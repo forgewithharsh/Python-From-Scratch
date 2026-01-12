@@ -1,0 +1,2 @@
+file 'static/1.jpg'
+duration 1
